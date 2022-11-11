@@ -4,9 +4,9 @@ About:
     This is an implementation of the Duck Hunt game using the gfx-framework presented in the README
 inside the folder gfx-framework-master + DuckHunt.
 
-    My implementation of the game can be found at the path gfx-framework-master +
-DuckHunt/src/lab-m1/Tema1. To open the project, open the main folder in Visual Studio or use the
-.sln file in gfx-framework-master + DuckHunt/build.
+    My implementation of the game can be found at the path
+gfx-framework-master+DuckHunt/src/lab-m1/Tema1. To open the project, open the main folder in Visual
+Studio or use the .sln file in gfx-framework-master + DuckHunt/build.
 
 Gameplay:
     In this game the player has to shoot ducks that come out of the grass(the green field) by
