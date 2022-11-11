@@ -9,6 +9,7 @@ About:
 Gameplay:
 
     In this game the player has to shoot ducks that come out of the grass(the green field) by clicking on them (3 bullets available).
+    In this version, the duck can reenter the grass field, this area being a safe zone where the duck cannot be hit.
     If the duck survives for a certain time(depending on the difficulty), then the duck will escape and the players will lose one of the 3 lives they own.
     Upon losing all lives, further attempts to shoot will print on the console a message that there are no more lives left.
     After every 5 ducks hit, the difficulty increases, which means the speed of the duck increases and the time they are available to be hit decreases.
